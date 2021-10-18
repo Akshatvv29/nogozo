@@ -1,0 +1,19 @@
+.H1
+{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.tabs
+{
+    margin: 0 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 14px;
+}
+.tabs:hover
+{
+    font-weight: 500;
+    font-size: 17px;
+    color: white;
+}
